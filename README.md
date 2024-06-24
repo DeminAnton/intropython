@@ -31,6 +31,7 @@ This course is designed to introduce the fundamentals of Python programming. The
 ### Lesson 6: Functions
 - **Overview:** Defining and calling functions, understanding parameters and return values.
 - **Exercises:** Programs using functions to organize code.
+Most dificult lesson.
 
 ### Lesson 7: Working with Text Files
 - **Overview:** Reading from and writing to text files.
